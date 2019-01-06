@@ -1,7 +1,7 @@
 enable : true
 heading : 
 headingSpan : 聯繫我們
-title : Contact Details
+title : 留言給我們
 content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
 enable_maps : true
 mapLatitude : 23.993388
