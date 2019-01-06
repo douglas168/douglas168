@@ -6,7 +6,7 @@ theme = "meghna-hugo"
 # Menu
 [menu]
     [[menu.nav]]
-    name = "關於"
+    name = "關於我們"
     URL = "about"
     weight = 2
 
