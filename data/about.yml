@@ -1,6 +1,6 @@
 enable : true
-heading : About
-headingSpan : Us
+heading : 
+headingSpan : 關於我們
 aboutItem : 
 - icon : tf-tools
   title : We're Creative

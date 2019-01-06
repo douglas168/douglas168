@@ -6,42 +6,43 @@ theme = "meghna-hugo"
 # Menu
 [menu]
     [[menu.nav]]
-    name = "About Us"
+    name = "關於"
     URL = "about"
     weight = 2
+
     [[menu.nav]]
-    name = "Service"
+    name = "服務"
     URL = "services"
     weight = 3
 
     [[menu.nav]]
-    name = "Portfolio"
+    name = "空間"
     URL = "portfolio"
     weight = 4
 
     [[menu.nav]]
-    name = "Team"
-    URL = "our-team"
+    name = "評論"
+    URL = "testimonial"
     weight = 5
 
     [[menu.nav]]
-    name = "Pricing"
+    name = "進駐"
     URL = "pricing"
     weight = 6
 
     [[menu.nav]]
-    name = "Blog"
+    name = "最新文章"
     URL = "blog"
     weight = 7
 
     [[menu.nav]]
-    name = "Contact"
+    name = "聯繫我們"
     URL = "contact-us"
     weight = 8
 
 # Site params
 [params]
-home= "Home"
+home= "首頁"
 logo = "images/logo.png"
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBI14J_PNWVd-m0gnUBkjmhoQyNyd7nllA"
 custom_css = ["css/custom.css"]
@@ -51,10 +52,10 @@ custom_css = ["css/custom.css"]
     enable = true
     bgImage = "images/slider/hero-area.jpg"
     icon = "tf-ion-play"
-    heading = "Experience the new reality"
-    content= "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+    heading = "我們的家 //台東//"
+    content= "我們獨立發行 以「重新認識台東」為志向的深度本土刊物【台東．是家】"
     btn = true
-    btnText="Explore Us"
+    btnText="點進來吧"
     btnURL="#services"
 
     # call to action

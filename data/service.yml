@@ -1,27 +1,41 @@
 enable : true
-heading : Our
-headingSpan : Services
+heading : 
+headingSpan : 我們提供的服務和工具
 serviceItem :
   - icon : tf-globe
-    title : WordPress Theme
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    title : 無線網路WIFI
+    content : 
     
   - icon : tf-ion-laptop
-    title : Responsive Design
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-    
+    title : 個人/團體桌位
+   
   - icon : tf-genius
-    title : Media &amp; Advertisement
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    title : 插座
     
   - icon : tf-dial
-    title : Graphic Design
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-    
-  - icon : tf-target3
-    title : Apps Development
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    title : 事務機
+
+  - icon : tf-genius
+    title : 好喝的咖啡/茶水
+
+  - icon : tf-dial
+    title : 心血來潮可煮飯廚房
+   
+  - icon : tf-genius
+    title : 中型攝影棚
+
+  - icon : tf-dial
+    title : 討論空間
+
+  - icon : tf-dial
+    title : 交流活動/旅遊諮詢
     
   - icon : tf-lifesaver
-    title : Networking
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    title : 60坪草皮戶外休息區
+
+  - icon : tf-lifesaver
+    title : 政府補獎助資訊
+
+  - icon : tf-lifesaver
+    title : 老宿舍區/淋浴浴廁
+   

@@ -1,6 +1,6 @@
 enable : true
-heading : Our Greatest
-headingSpan : Plans
+heading : 
+headingSpan : 進駐
 pricingTable :
   - title : Free
     price : $99
