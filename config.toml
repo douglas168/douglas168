@@ -9,7 +9,6 @@ theme = "meghna-hugo"
     name = "About Us"
     URL = "about"
     weight = 2
-
     [[menu.nav]]
     name = "Service"
     URL = "services"
