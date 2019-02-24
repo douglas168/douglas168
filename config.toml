@@ -11,22 +11,22 @@ theme = "meghna-hugo"
     weight = 2
 
     [[menu.nav]]
-    name = "服務"
+    name = "服務項目"
     URL = "services"
     weight = 3
 
     [[menu.nav]]
-    name = "空間"
+    name = "工作空間"
     URL = "portfolio"
     weight = 4
 
-    [[menu.nav]]
-    name = "評論"
-    URL = "testimonial"
-    weight = 5
+    # [[menu.nav]]
+    # name = "評論"
+    # URL = "testimonial"
+    # weight = 5
 
     [[menu.nav]]
-    name = "進駐"
+    name = "租用價格"
     URL = "pricing"
     weight = 6
 
@@ -56,7 +56,7 @@ custom_css = ["css/custom.css"]
     content= "我們獨立發行 以「重新認識台東」為志向的深度本土刊物【台東．是家】"
     btn = true
     btnText="點進來吧"
-    btnURL="#services"
+    btnURL="#portfolio"
 
     # call to action
     [params.cta]

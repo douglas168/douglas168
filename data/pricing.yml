@@ -1,55 +1,61 @@
 enable : true
 heading : 
-headingSpan : 進駐
+headingSpan : 租用價格
 pricingTable :
-  - title : Free
-    price : $99
-    time : month
+  - title : 社群會員
+    price : $3,000
+    time : 月
     btnURL : #
     btnText : Signup
     plan :
-      - planDetails : 1GB Disk Space
-      - planDetails : 10 Email Account
-      - planDetails : Script Installer
-      - planDetails : 1 GB Storage
-      - planDetails : 10 GB Bandwidth
-      - planDetails : 24/7 Tech Support
+      # - planDetails : 1GB Disk Space
+      # - planDetails : 10 Email Account
+      # - planDetails : Script Installer
+      # - planDetails : 1 GB Storage
+      # - planDetails : 10 GB Bandwidth
+      # - planDetails : 24/7 Tech Support
+      - planDetails : 30日不限使用次數
+      - planDetails : 免費提供每月20杯免費現磨咖啡
+      - planDetails : 免費租借場地1次/月 多餘原價8折
+      - planDetails : 免費事務機(每月300張)
+      - planDetails : 免費提供信件包裹代收服務
+      - planDetails : 免費提供產品寄賣或展示服務
       
-  - title : Silver
-    price : $149
-    time : month
+  - title : 年度會員
+    price : $28,800
+    time : 年
     btnURL : #
     btnText : Signup
     plan :
-      - planDetails : 1GB Disk Space
-      - planDetails : 10 Email Account
-      - planDetails : Script Installer
-      - planDetails : 1 GB Storage
-      - planDetails : 10 GB Bandwidth
-      - planDetails : 24/7 Tech Support
+      - planDetails : 1年不限使用次數
+      - planDetails : 免費提供每月20杯免費現磨咖啡
+      - planDetails : 免費租借場地4次/月 多餘原價8折
+      - planDetails : 免費事務機(每月300張)
+      - planDetails : 免費提供信件包裹代收服務
+      - planDetails : 免費提供產品寄賣或展示服務
       
-  - title : Gold
-    price : $199
-    time : month
+  - title : DAY PASS 日通行卷
+    price : $200
+    time : 天
     btnURL : #
     btnText : Signup
     plan :
-      - planDetails : 1GB Disk Space
-      - planDetails : 10 Email Account
-      - planDetails : Script Installer
-      - planDetails : 1 GB Storage
-      - planDetails : 10 GB Bandwidth
-      - planDetails : 24/7 Tech Support
+      - planDetails : 單日使用
+      - planDetails : 冰/熱開水，茶/咖啡包服務
+      - planDetails : 原價預約租借場地
+      - planDetails : 黑白$0.6/張 ， 彩色$6/張 ，傳真$10/次
+      - planDetails : X
+      - planDetails : X
       
-  - title : Platinum
-    price : $299
-    time : month
+  - title : 回數票方案
+    price : $2,000
+    time : 方案
     btnURL : #
     btnText : Signup
     plan :
-      - planDetails : 1GB Disk Space
-      - planDetails : 10 Email Account
-      - planDetails : Script Installer
-      - planDetails : 1 GB Storage
-      - planDetails : 10 GB Bandwidth
-      - planDetails : 24/7 Tech Support
+      - planDetails : 無限期使用10次
+      - planDetails : 冰/熱開水，茶/咖啡包服務
+      - planDetails : 原價9折預約租借場地
+      - planDetails : 黑白$0.6/張 ， 彩色$6/張 ，傳真$10/次
+      - planDetails : X
+      - planDetails : X

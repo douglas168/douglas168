@@ -2,74 +2,72 @@ enable : true
 heading : 
 headingSpan : 舒適的共用工作空間
 filterList :
-  - filterType : photography
-    filterTitle : Photography
+  - filterType : 咖啡
+    filterTitle : 咖啡
     
-  - filterType : design
-    filterTitle : Design
+  - filterType : 空間
+    filterTitle : 空間
     
-  - filterType : development
-    filterTitle : Development
 
 portfolioItem :
-  - types : design
+  - types : 咖啡
     image : images/portfolio/portfolio-1.jpg
     icon : tf-ion-android-search
     URL : #
     title : Tag Design
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     
-  - types : development
+  - types : 空間
     image : images/portfolio/portfolio-2.jpg
     icon : tf-ion-android-search
     URL : #
     title : Sound system
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     
-  - types : design development
-    image : images/portfolio/portfolio-3.jpg
+  - types : 空間
+    image : images/portfolio/portfolio-7.jpg
     icon : tf-ion-android-search
     URL : #
     title : Clock Product
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     
-  - types : photography development
+  - types : 空間
     image : images/portfolio/portfolio-4.jpg
     icon : tf-ion-android-search
     URL : #
     title : Bottol Label
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     
-  - types : design
+  - types : 空間
     image : images/portfolio/portfolio-5.jpg
     icon : tf-ion-android-search
     URL : #
     title : Shopping Bag
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    description : XLorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     
-  - types : photography
+  - types : 咖啡
     image : images/portfolio/portfolio-6.jpg
     icon : tf-ion-android-search
     URL : #
     title : Tag Design
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     
-  - types : development
-    image : images/portfolio/portfolio-7.jpg
+  - types : 空間
+    image : images/portfolio/portfolio-3.jpg
     icon : tf-ion-android-search
     URL : #
     title : Business Card
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     
-  - types : design development
+  - types : 空間
     image : images/portfolio/portfolio-8.jpg
     icon : tf-ion-android-search
     URL : #
     title : Stationary Design
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     
-  - types : design photography
-    image : images/portfolio/portfolio-2.jpg
+  - types : 咖啡
+    image : images/portfolio/portfolio-9.jpg
     icon : tf-ion-android-search
     URL : #
     title : Tag Design

@@ -1,41 +1,33 @@
 enable : true
 heading : 
-headingSpan : 我們提供的服務和工具
+headingSpan : 我們提供的服務和工具包括
 serviceItem :
-  - icon : tf-globe
-    title : 無線網路WIFI
+  - icon : tf-ion-wifi
+    title : 免費高速上網
     content : 
     
   - icon : tf-ion-laptop
     title : 個人/團體桌位
    
-  - icon : tf-genius
-    title : 插座
-    
-  - icon : tf-dial
-    title : 事務機
+  - icon : tf-ion-fork
+    title : 心血來潮可煮飯廚房
 
-  - icon : tf-genius
+  - icon : tf-chat
+    title : 討論空間
+    
+  - icon : tf-ion-coffee
     title : 好喝的咖啡/茶水
 
-  - icon : tf-dial
-    title : 心血來潮可煮飯廚房
-   
-  - icon : tf-genius
-    title : 中型攝影棚
+  - icon : tf-printer
+    title : 事務機
 
-  - icon : tf-dial
-    title : 討論空間
-
-  - icon : tf-dial
-    title : 交流活動/旅遊諮詢
-    
-  - icon : tf-lifesaver
-    title : 60坪草皮戶外休息區
-
-  - icon : tf-lifesaver
+  - icon : tf-ion-cash
     title : 政府補獎助資訊
 
-  - icon : tf-lifesaver
-    title : 老宿舍區/淋浴浴廁
+  - icon : tf-documents5
+    title : 交流活動/旅遊諮詢
+
+  - icon : tf-ion-power
+    title : 插座
+    
    
